@@ -1,2 +1,2 @@
-## Ссылка на курс:
-https://miptstats.github.io/courses/ad_fivt.html
+## Задание:
+https://miptstats.github.io/courses/ad_fivt/task8.html
